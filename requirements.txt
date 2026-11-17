@@ -1,0 +1,6 @@
+constriction==0.5.0
+numpy==2.4.6
+pillow==11.3.0
+pytorch-msssim==1.0.0
+scipy==1.16.3
+torch==2.14.1
